@@ -1,0 +1,2 @@
+timestamp,temperature,feels_like,humidity,pressure,weather_condition,weather_description,wind_speed,wind_direction,cloudiness,visibility,sunrise,sunset,weather_risk_score,alerts
+2025-05-25T21:24:04.813908,12.66,12.12,82,1019,Clouds,broken clouds,2.06,310,75,10000,2025-05-25T05:13:47,2025-05-25T20:29:02,0.0,[]

@@ -1,0 +1,6 @@
+timestamp,incident_id,location,incident_type,severity,description,date_reported,status
+2025-05-25T21:24:59.379135,MTL_20250525_001,Highway 40 - Decarie Interchange,Vehicle Collision,High,"Multi-vehicle collision, lane closure",2025-05-25,Active
+2025-05-25T21:24:59.379135,MTL_20250525_002,Rue Sainte-Catherine - Downtown,Traffic Congestion,Medium,Heavy traffic due to construction,2025-05-25,Active
+2025-05-25T21:24:59.379135,MTL_20250525_003,Jacques-Cartier Bridge,Maintenance Work,Low,"Scheduled maintenance, reduced lanes",2025-05-25,Active
+2025-05-25T21:24:59.379135,MTL_20250525_004,Highway 15 - Champlain Bridge approach,Accident,High,"Vehicle breakdown, right lane blocked",2025-05-25,Active
+2025-05-25T21:24:59.379135,MTL_20250525_005,Boulevard Saint-Laurent,Construction,Medium,"Road work, traffic diverted",2025-05-25,Active
